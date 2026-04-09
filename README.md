@@ -38,6 +38,7 @@ Direct slash command:
 That is it. No configuration. No API keys. No setup beyond dropping the folder in.
 
 Skill Design Principles
+
 Every skill in this repository follows the same rules:
 No placeholders in output. Test data uses real values. Formulas use real numbers. You get something you can act on, not a template to fill in later.
 Graceful field handling. Skills work with whatever data you provide. Missing fields are skipped cleanly, not hallucinated.
@@ -79,13 +80,6 @@ The output you got
 What you expected instead
 
 Pull requests welcome. If you are building a skill that fits the QA practitioner scope of this repo, open an issue first to discuss before building.
-
-Related Resources
-
-testmetry.com - QA thought leadership, frameworks, and tools for software testing professionals
-Software Test Estimation Simplified - The book behind the upcoming test-estimation-calculator skill
-Automation Hangout Podcast - Practitioner conversations on test automation and AI in testing
-
 
 Keywords
 claude code skills, qa automation, test case generation, defect analysis, software testing ai, claude code qa, test case writer, defect metrics, quality engineering, test automation tools, ai testing, software quality, jira defect analysis, test plan generator, claude code plugins
