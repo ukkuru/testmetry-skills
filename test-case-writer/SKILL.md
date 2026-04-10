@@ -12,6 +12,7 @@ Generates complete, execution-ready, traceable test cases from any combination o
 - Business Requirements Documents (BRDs)
 - UI mockups or wireframes
 - Forms and templates
+- Workflows
 - Plain-language feature descriptions
 
 ---
@@ -170,7 +171,7 @@ After the test case table, output this summary block:
 All primary, alternate, error, edge, and role-based paths have been tested.
 
 **Assumptions Made:**
-- [List any assumption where documentation was missing or ambiguous]
+- [List any assumption where documentation was missing or ambiguous in mumbered format]
 - [If no assumptions, write: "None. All behavior derived from provided inputs."]
 ```
 
